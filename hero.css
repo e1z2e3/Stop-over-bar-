@@ -1,0 +1,53 @@
+.background{
+    width: 100%;
+    height: 100%;
+    background-image: url(hro.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.bck{
+    width: 86px;
+    height: 36px;
+    margin-top: 9px;
+}
+
+.btn{
+    width: 86px;
+    height: 36px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: white;
+    background-color: blue;
+    border: white;
+    font-weight: bolder;
+}
+
+.btn:hover{
+    background-color: #fff;
+    color: black;
+    border-color: rgb(235, 91, 7);
+    border-width: 30px;
+}
+.text{
+    width: 1000px;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 30px;
+    font-family: Times New Roman;
+    height: 800px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.image{
+    width: 500px;
+    height: 300px;
+    background-image: url(preuim\ brewies.jpg);
+    border: black;
+    background-size: contain;
+    background-position: center;
+}
